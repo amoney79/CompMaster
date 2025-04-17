@@ -2,11 +2,11 @@
 
  New App Focus: "CompositionMaster"
 
-Goal
+Goal:
 Help students practice and improve their composition writing through structured lessons, writing prompts, examples, tips, and guided submissions.
 
 
- Core Features
+ Core Features:
  New Feature (CompMaster)      
  Choose grade level (Primary / High School)      
  Writing topics + structured guides + sample essays 
@@ -16,12 +16,12 @@ Help students practice and improve their composition writing through structured 
  Writing log and improvement tracker              
 
 
- App Structure
+ App Structure:
 
- 1. Login/Register ( UI)  
+ 1. Login/Register ( UI) : 
 To track user submissions and progress.
 
- 2. Dashboard 
+ 2. Dashboard :
 Show composition categories:
 - Narrative
 - Descriptive
@@ -35,7 +35,7 @@ Let users select:
 - Category
 - Topic
 
- 3. LessonView → CompositionView
+ 3. LessonView → CompositionView:
 Each lesson becomes a "Writing Guide":
 - Topic introduction
 - Writing tips
